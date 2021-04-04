@@ -8,6 +8,9 @@
     <div>
       fswew
     </div>
+    <div>
+      fsdfsd
+    </div>
   </div>
 </template>
 
